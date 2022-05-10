@@ -12,3 +12,7 @@ B = 1+3
 # COMMAND ----------
 
 print("new line")
+
+# COMMAND ----------
+
+print("leiguohai")
