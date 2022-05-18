@@ -60,3 +60,7 @@ mydf1.show()
 # COMMAND ----------
 
 dbutils.fs.unmount("/mnt")
+
+# COMMAND ----------
+
+print("Program End")
