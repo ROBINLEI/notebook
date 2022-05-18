@@ -33,6 +33,10 @@ dbutils.fs.cp("/mnt/output/resultnew.csv", "/mnt/output/resultnew1.csv")
 
 # COMMAND ----------
 
+dbutils.fs.cp("/mnt/output/resultnew.csv", "/FileStore/new1.csv")
+
+# COMMAND ----------
+
 dbutils.fs.ls("/mnt/output")
 
 # COMMAND ----------
